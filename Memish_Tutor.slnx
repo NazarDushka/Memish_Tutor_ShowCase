@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Memish_Tutor/Memish_Tutor.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Memish_Tutor.Tests/Memish_Tutor.Tests.csproj" />
+  </Folder>
+</Solution>
